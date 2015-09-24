@@ -1,5 +1,5 @@
 # sudo apt-get install libpng-dev libjpeg8-dev libfreetype6-dev zlib1g-dev
-django
+django==1.7
 Image
 django-widget-tweaks
 pillow
